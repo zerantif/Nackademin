@@ -1,0 +1,1 @@
+{"books": [{"author": "Hanif", "page_number": 999, "purchase_price": 500, "purchase_year": 2021, "title": "Master hacker"}], "movies": [{"director": "Zeran", "length": 123, "purchase_price": 100, "purchase_year": 2018, "quality": 7, "title": "Apocalypse now!"}], "cds": [{"artist": "Michael jackson", "length": 87, "purchase_price": 100, "title": "Thriller", "tracks": 13}]}
